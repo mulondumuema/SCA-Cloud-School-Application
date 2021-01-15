@@ -1,6 +1,6 @@
 # Instructions
 
-To create a docker image from the dockerfile in the branch run:
+To create a docker image from the Dockerfile in the branch run:
 
 ```
 $ docker build -t <image-name> .
